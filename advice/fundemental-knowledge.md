@@ -1,6 +1,6 @@
-# Some advice
+# Fundemental Knowledge
 
-Foster these fundemental concepts. They're are essential to success. Ordered by presedence.
+Foster these fundemental concepts. Ordered by importance.
 
 1. [Empathy](http://en.wikipedia.org/wiki/Empathy)
 2. [Emotional Intelligence](http://en.wikipedia.org/wiki/Emotional_intelligence)
