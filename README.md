@@ -1,2 +1,3 @@
-# develop-daily
-The short and sweet developer tips. 
+# Develop Daily
+
+Very Short and random thoughts on complex concepts in development.
